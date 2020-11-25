@@ -6,3 +6,5 @@ Instructors :
 David Gassner
 Jon-Luke West
 Chiu-Ki Chan
+
+This repository maybe stay still without any commit since I've been following code more on Udemy than LinkedIn
